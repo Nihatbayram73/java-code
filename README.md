@@ -1,4 +1,4 @@
-# java-code
+# java-code computer engineerin example
 code for java
 import java.util.Scanner; // Scanner sınıfı ile kullanıcının bir girdi girmesini sağlamak için kullandık.
 import java.util.Arrays; // arrays sınıfı ile dizilerde işlem yapmak iin kolaylık sağlamak için kullandık.
